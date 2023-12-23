@@ -1,0 +1,1 @@
+This repository contains the code and findings from a comprehensive Lead Scoring Case Study conducted using a logistic regression model. The study aims to identify key factors influencing the conversion of leads into paying customers.
